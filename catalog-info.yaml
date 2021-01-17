@@ -6,6 +6,9 @@ metadata:
   annotations:
     github.com/project-slug: "kmannuz/react-app2"
     backstage.io/techdocs-ref: github:https://github.com/kmannuz/react-app2
+    backstage.io/kubernetes-id: react-app2
+    sentry.io/project-slug: react-app2
+    lighthouse.com/website-url: react-app2
 spec:
   type: website
   lifecycle: experimental
